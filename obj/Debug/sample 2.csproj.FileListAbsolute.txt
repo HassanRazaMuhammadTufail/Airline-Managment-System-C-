@@ -1,0 +1,34 @@
+c:\users\sufyan\documents\visual studio 2015\Projects\sample 2\sample 2\bin\Debug\sample 2.exe.config
+c:\users\sufyan\documents\visual studio 2015\Projects\sample 2\sample 2\bin\Debug\sample 2.exe
+c:\users\sufyan\documents\visual studio 2015\Projects\sample 2\sample 2\bin\Debug\sample 2.pdb
+c:\users\sufyan\documents\visual studio 2015\Projects\sample 2\sample 2\obj\Debug\sample_2.Form1.resources
+c:\users\sufyan\documents\visual studio 2015\Projects\sample 2\sample 2\obj\Debug\sample_2.Properties.Resources.resources
+c:\users\sufyan\documents\visual studio 2015\Projects\sample 2\sample 2\obj\Debug\sample 2.csproj.GenerateResource.Cache
+c:\users\sufyan\documents\visual studio 2015\Projects\sample 2\sample 2\obj\Debug\sample 2.exe
+c:\users\sufyan\documents\visual studio 2015\Projects\sample 2\sample 2\obj\Debug\sample 2.pdb
+C:\Users\sufyan\Documents\Visual Studio 2015\Projects\sample 2\sample 2\obj\Debug\sample_2.First_Custom_Control.resources
+C:\Users\sufyan\documents\visual studio 2015\Projects\sample 2\sample 2\obj\Debug\sample_2.FirstCustomControl.resources
+G:\Oop project\sample 2\sample 2\obj\Debug\sample_2.First_Custom_Control.resources
+G:\Oop project\sample 2\sample 2\obj\Debug\sample_2.Form1.resources
+G:\Oop project\sample 2\sample 2\obj\Debug\sample_2.Properties.Resources.resources
+G:\Oop project\sample 2\sample 2\obj\Debug\sample 2.csproj.GenerateResource.cache
+G:\Oop project\sample 2\sample 2\obj\Debug\sample 2.csproj.CoreCompileInputs.cache
+G:\Oop project\sample 2\sample 2\bin\Debug\sample 2.exe.config
+G:\Oop project\sample 2\sample 2\bin\Debug\sample 2.exe
+G:\Oop project\sample 2\sample 2\bin\Debug\sample 2.pdb
+G:\Oop project\sample 2\sample 2\obj\Debug\sample 2.exe
+G:\Oop project\sample 2\sample 2\obj\Debug\sample 2.pdb
+G:\Oop project\sample 2\sample 2\obj\Debug\sample_2.First.resources
+C:\Users\sufyan\Desktop\Oop project\restuarant app\sample 2\bin\Debug\sample 2.exe.config
+C:\Users\sufyan\Desktop\Oop project\restuarant app\sample 2\bin\Debug\sample 2.exe
+C:\Users\sufyan\Desktop\Oop project\restuarant app\sample 2\bin\Debug\sample 2.pdb
+C:\Users\sufyan\Desktop\Oop project\restuarant app\sample 2\obj\Debug\sample_2.First_Custom_Control.resources
+C:\Users\sufyan\Desktop\Oop project\restuarant app\sample 2\obj\Debug\sample_2.Form1.resources
+C:\Users\sufyan\Desktop\Oop project\restuarant app\sample 2\obj\Debug\sample_2.First.resources
+C:\Users\sufyan\Desktop\Oop project\restuarant app\sample 2\obj\Debug\sample_2.Properties.Resources.resources
+C:\Users\sufyan\Desktop\Oop project\restuarant app\sample 2\obj\Debug\sample_2.ThirdCustomControl.resources
+C:\Users\sufyan\Desktop\Oop project\restuarant app\sample 2\obj\Debug\sample 2.csproj.GenerateResource.cache
+C:\Users\sufyan\Desktop\Oop project\restuarant app\sample 2\obj\Debug\sample 2.csproj.CoreCompileInputs.cache
+C:\Users\sufyan\Desktop\Oop project\restuarant app\sample 2\obj\Debug\sample 2.exe
+C:\Users\sufyan\Desktop\Oop project\restuarant app\sample 2\obj\Debug\sample 2.pdb
+C:\Users\sufyan\Desktop\Oop project\restuarant app\sample 2\obj\Debug\sample_2.four.resources
